@@ -1,0 +1,16 @@
+2022-08-26 13:44:02.046  INFO 30692 --- [main] .m.s.SpringBoot03LoggingApplicationTests : Starting SpringBoot03LoggingApplicationTests using Java 1.8.0_191 on ZQC31380NEW with PID 30692 (started by ZQC31380 in E:\spring\spring-boot-03-logging)
+2022-08-26 13:44:02.049 DEBUG 30692 --- [main] .m.s.SpringBoot03LoggingApplicationTests : Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-08-26 13:44:02.050  INFO 30692 --- [main] .m.s.SpringBoot03LoggingApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2022-08-26 13:44:03.908  INFO 30692 --- [main] .m.s.SpringBoot03LoggingApplicationTests : Started SpringBoot03LoggingApplicationTests in 2.331 seconds (JVM running for 3.889)
+2022-08-26 13:44:04.228 DEBUG 30692 --- [main] .m.s.SpringBoot03LoggingApplicationTests : 这是debug日志信息
+2022-08-26 13:44:04.228  INFO 30692 --- [main] .m.s.SpringBoot03LoggingApplicationTests : 这是 info 日志信息
+2022-08-26 13:44:04.229  WARN 30692 --- [main] .m.s.SpringBoot03LoggingApplicationTests : 这是 warn 日志信息
+2022-08-26 13:44:04.229 ERROR 30692 --- [main] .m.s.SpringBoot03LoggingApplicationTests : 这是 error 日志信息
+2022-08-26 13:48:09.022  INFO 54864 --- [main] .m.s.SpringBoot03LoggingApplicationTests : Starting SpringBoot03LoggingApplicationTests using Java 1.8.0_191 on ZQC31380NEW with PID 54864 (started by ZQC31380 in E:\spring\spring-boot-03-logging)
+2022-08-26 13:48:09.024 DEBUG 54864 --- [main] .m.s.SpringBoot03LoggingApplicationTests : Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-08-26 13:48:09.026  INFO 54864 --- [main] .m.s.SpringBoot03LoggingApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2022-08-26 13:48:11.164  INFO 54864 --- [main] .m.s.SpringBoot03LoggingApplicationTests : Started SpringBoot03LoggingApplicationTests in 2.616 seconds (JVM running for 4.093)
+2022-08-26 13:48:11.528 DEBUG 54864 --- [main] .m.s.SpringBoot03LoggingApplicationTests : 这是debug日志信息
+2022-08-26 13:48:11.529  INFO 54864 --- [main] .m.s.SpringBoot03LoggingApplicationTests : 这是 info 日志信息
+2022-08-26 13:48:11.529  WARN 54864 --- [main] .m.s.SpringBoot03LoggingApplicationTests : 这是 warn 日志信息
+2022-08-26 13:48:11.529 ERROR 54864 --- [main] .m.s.SpringBoot03LoggingApplicationTests : 这是 error 日志信息
